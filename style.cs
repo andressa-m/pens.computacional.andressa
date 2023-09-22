@@ -1,3 +1,7 @@
+body{
+    background:#921C1C
+}
+
 .cabecalho{
     position: absolute;
     width: 466px;
