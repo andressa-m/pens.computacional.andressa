@@ -20,12 +20,14 @@ height:319px;
 }
 
 .img2{
+align-items: center;
 width:466px;
 heigth:303px;
 
 }
 
 .img3{
+align-items: normal;
 width:245px;
 height:321px;
    
